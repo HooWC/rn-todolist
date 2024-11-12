@@ -8,6 +8,12 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 npx create-expo-app -e with-router
 ```
 
+## 🚀 Start Project on Expo Go
+
+```sh
+npx expo start
+```
+
 ## 📝 Notes
 
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
